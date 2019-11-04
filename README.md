@@ -1,12 +1,14 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
+Your Name, yihou@ucsd.edu
 
 (Your teammate's contact info, if appropriate)
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+When people see some images, they will imagine sounds in their mind. In this project, I want to generate different background music for different images.When people choose or upload a image, the program will generate corresponding audio for the image. To complete this, first I need one well-established, pre-trained image recognition model to calssify images. Then I use another convolutional neural network reads the audio as spectrogram images. Finally, build a model to generate special kind of background musics.
+
+
 
 ## Model/Data
 
