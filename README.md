@@ -1,6 +1,6 @@
 # Project 3 Generative Audio
 
-Your Name, yihou@ucsd.edu
+Yifan Hou, yihou@ucsd.edu
 
 (Your teammate's contact info, if appropriate)
 
