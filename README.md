@@ -41,4 +41,4 @@ Any implementation details or notes we need to repeat your work.
 References to any papers, techniques, repositories you used:
 - Papers
 - Repositories
-- Blog posts
+- http://soundnet.csail.mit.edu/
