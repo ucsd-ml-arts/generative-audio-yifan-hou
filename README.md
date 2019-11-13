@@ -6,7 +6,7 @@ Yifan Hou, yihou@ucsd.edu
 
 ## Abstract
 
-When people see some images, they will imagine sounds in their mind. In this project, I want to generate different background music for different images.When people choose or upload a image, the program will generate corresponding audio for the image. To complete this, first I need one well-established, pre-trained image recognition model to calssify images. Then I use another convolutional neural network reads the audio as spectrogram images, evolving so that the distribution of its output gets as close as possible to that of the first one. Once trained, the two networks allow us to generate the best-matched sound for a scene.
+When people see some images, they will imagine sounds in their minds. In this project, I want to generate different background music for different images.When people choose or upload a image, the program will generate corresponding audio for the image. To complete this, first I need one well-established, pre-trained image recognition model to calssify images. Then I use another convolutional neural network reads the audio as spectrogram images, evolving so that the distribution of its output gets as close as possible to that of the first one. Once trained, the two networks allow us to generate the best-matched sound for a scene.
 
 
 ## Model/Data
